@@ -173,7 +173,7 @@ main section {
 
 .resume-item-institute,
 .resume-item-description {
-    color: #757575
+    color: #757575;
 }
 
 .resume-container hr {
@@ -199,12 +199,14 @@ footer {
 
 .social-link a {
     margin-right: 24px;
+    gap: 24px;
 }
 
 .Contact input[type="text"],
 .contact input[type="email"],
 textarea {
     display: block;
+    gap: 24px;
     margin-bottom: 25px;
     padding: 18px 35px;
     color: #757575;
